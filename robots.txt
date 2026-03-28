@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://727a8.com/sitemap.xml
